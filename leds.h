@@ -1,0 +1,25 @@
+#ifndef LEDS_H
+#define LEDS_H
+    void initLeds(void);
+    void col1(void);
+    void col2(void);
+    void col3(void);
+    void col4(void);
+    void col5(void);
+    void col6(void);
+    void col7(void);
+    void col8(void);
+    void col9(void);
+    void layer1(void);
+    void layer2(void);
+    void layer3(void);
+    void lineX1(void);
+    void lineX2(void);
+    void lineX3(void);
+    void lineX4(void);
+    void lineX5(void);
+    void lineX6(void);
+    void lineX7(void);
+    void lineX8(void);
+    void lineX9(void);
+#endif
